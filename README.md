@@ -1,2 +1,1 @@
-# hello-csharp-unity
- First Unity practice project
+# First Unity practice project
